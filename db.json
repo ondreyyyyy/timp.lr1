@@ -1,0 +1,62 @@
+{
+  "objects": [
+    {
+      "id": "1",
+      "name": "Obj 131",
+      "address": "ул. Ленина, 45",
+      "type": "Офис",
+      "guardCount": 4,
+      "status": "Под охраной",
+      "lastInspection": "10.11.2022",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "3",
+      "name": "Obj 3",
+      "address": "пр. Мира, 88",
+      "type": "ЖК",
+      "guardCount": 6,
+      "status": "Под охраной",
+      "lastInspection": "11.02.2026",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "7367",
+      "name": "obj 911",
+      "address": "г. Омск, ул. Мира д. 92",
+      "type": "Школа",
+      "guardCount": 2,
+      "status": "Под охраной",
+      "lastInspection": "13.10.2006",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "f2b7",
+      "name": "test 1",
+      "address": "г. Москва пл. Маркса 99",
+      "type": "ЖК",
+      "guardCount": 4,
+      "status": "Под охраной",
+      "lastInspection": "12.12.2025",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "0d69",
+      "name": "test 911",
+      "address": "г. Омск, ул. Мира д. 92",
+      "type": "Стройка",
+      "guardCount": 4,
+      "status": "Под охраной",
+      "lastInspection": "11.10.2022",
+      "hasAlarmSystem": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "neverov.andrey11102006@gmail.com",
+      "password": "admin123"
+    }
+  ]
+}
